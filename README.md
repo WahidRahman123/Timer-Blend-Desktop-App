@@ -10,10 +10,6 @@
 - **Stopwatch**: Measure elapsed time with start, stop, and reset functionalities.
 - **30-Second Loop Timer**: A timer that continuously loops every 30 seconds and alerts the user with an alert box when 10 seconds are left.
 
-## Repository
-
-**Repository Name**: [Timer-Blend-Desktop-App](https://github.com/WahidRahman123/Timer-Blend-Desktop-App.git)
-
 ## Installation
 
 1. Clone the repository:
